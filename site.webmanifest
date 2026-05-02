@@ -1,0 +1,19 @@
+{
+  "name": "Fundación N.A.H.U.E.L.",
+  "short_name": "N.A.H.U.E.L.",
+  "description": "Arte, Territorio y Bienestar Regenerativo",
+  "lang": "es-CL",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#33483a",
+  "icons": [
+    {
+      "src": "/assets/img/logo/logo%20nahuel%20-%20001.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
