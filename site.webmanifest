@@ -10,10 +10,10 @@
   "theme_color": "#33483a",
   "icons": [
     {
-      "src": "/assets/img/logo/logo%20nahuel%20-%20001.jpg",
+      "src": "/assets/img/logo/FNAH_favicon_logo_simplificado_512.png",
       "sizes": "512x512",
-      "type": "image/jpeg",
-      "purpose": "any"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
